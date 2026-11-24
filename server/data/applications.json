@@ -1,0 +1,242 @@
+[
+  {
+    "id": "app_1",
+    "opportunityId": "opp_1",
+    "studentId": "std_1",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21CS01_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/aarav-sharma",
+    "appliedAt": "2026-11-02T12:00:00.000Z",
+    "status": "Shortlisted for Round 2",
+    "round2Selected": true,
+    "round2Details": {
+      "roundName": "Round 2: Technical Interview",
+      "date": "2026-11-06",
+      "time": "11:00 AM - 12:30 PM",
+      "venue": "CCPD Interview Cubicle 1 / Online Meet",
+      "duration": "60 Mins",
+      "instructions": "Congratulations on qualifying Round 1 (OT)! You have been shortlisted for Round 2 with Google.\nSlot: 11:00 AM - 12:30 PM\nVenue: CCPD Interview Cubicle 1 / Online Meet\n\nPlease report 15 minutes before your scheduled slot with your updated resume, transcripts, and NITW Student ID card."
+    }
+  },
+  {
+    "id": "app_2",
+    "opportunityId": "opp_2",
+    "studentId": "std_1",
+    "preferredLocation": "Hyderabad",
+    "resumeFileName": "21CS01_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/aarav-sharma",
+    "appliedAt": "2026-11-02T13:30:00.000Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_3",
+    "opportunityId": "opp_3",
+    "studentId": "std_2",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21EC15_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/sneha-reddy",
+    "appliedAt": "2026-11-02T15:00:00.000Z",
+    "status": "Shortlisted for Round 2",
+    "round2Selected": true,
+    "round2Details": {
+      "roundName": "Round 2: Technical Interview (Digital VLSI & Architecture)",
+      "date": "2026-11-24",
+      "time": "11:30 AM - 01:00 PM",
+      "venue": "CCPD Interview Room 3 / Qualcomm Teams",
+      "duration": "60 Mins",
+      "instructions": "Congratulations! You have cleared Round 1 OT and qualified for Qualcomm Round 2 Technical Interview. Please report to CCPD Interview Room 3 with your college ID card and updated CV."
+    }
+  },
+  {
+    "id": "app_4",
+    "opportunityId": "opp_7",
+    "studentId": "std_2",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21EC15_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/sneha-reddy",
+    "appliedAt": "2026-11-02T15:45:00.000Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_5",
+    "opportunityId": "opp_2",
+    "studentId": "std_6",
+    "preferredLocation": "Hyderabad",
+    "resumeFileName": "21CS42_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/rohan-gupta",
+    "appliedAt": "2026-11-02T16:00:00.000Z",
+    "status": "Applied",
+    "round2Selected": false,
+    "round2Details": null
+  },
+  {
+    "id": "app_6",
+    "opportunityId": "opp_1",
+    "studentId": "std_6",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21CS42_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/rohan-gupta",
+    "appliedAt": "2026-11-02T16:30:00.000Z",
+    "status": "Shortlisted for Round 2",
+    "round2Selected": true,
+    "round2Details": {
+      "roundName": "Round 2: Technical Interview",
+      "date": "2026-11-06",
+      "time": "11:00 AM - 12:30 PM",
+      "venue": "CCPD Interview Cubicle 1 / Online Meet",
+      "duration": "60 Mins",
+      "instructions": "Congratulations on qualifying Round 1 (OT)! You have been shortlisted for Round 2 with Google.\nSlot: 11:00 AM - 12:30 PM\nVenue: CCPD Interview Cubicle 1 / Online Meet\n\nPlease report 15 minutes before your scheduled slot with your updated resume, transcripts, and NITW Student ID card."
+    }
+  },
+  {
+    "id": "app_7",
+    "opportunityId": "opp_1",
+    "studentId": "std_7",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21EC28_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/ananya-iyer",
+    "appliedAt": "2026-11-02T17:00:00.000Z",
+    "status": "Shortlisted for Round 2",
+    "round2Selected": true,
+    "round2Details": {
+      "roundName": "Round 2: Technical Interview",
+      "date": "2026-11-06",
+      "time": "11:00 AM - 12:30 PM",
+      "venue": "CCPD Interview Cubicle 1 / Online Meet",
+      "duration": "60 Mins",
+      "instructions": "Congratulations on qualifying Round 1 (OT)! You have been shortlisted for Round 2 with Google.\nSlot: 11:00 AM - 12:30 PM\nVenue: CCPD Interview Cubicle 1 / Online Meet\n\nPlease report 15 minutes before your scheduled slot with your updated resume, transcripts, and NITW Student ID card."
+    }
+  },
+  {
+    "id": "app_8",
+    "opportunityId": "opp_3",
+    "studentId": "std_7",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21EC28_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/ananya-iyer",
+    "appliedAt": "2026-11-02T17:30:00.000Z",
+    "status": "Applied",
+    "round2Selected": false,
+    "round2Details": null
+  },
+  {
+    "id": "app_9",
+    "opportunityId": "opp_4",
+    "studentId": "std_4",
+    "preferredLocation": "Pune",
+    "resumeFileName": "21ME48_Priya_Patel_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "https://linkedin.com/in/priya-patel",
+    "appliedAt": "2026-11-02T18:00:00.000Z",
+    "status": "Shortlisted for Round 2",
+    "round2Selected": true,
+    "round2Details": {
+      "roundName": "Round 2: Technical & Domain Interview (Powertrain Systems)",
+      "date": "2026-12-04",
+      "time": "10:00 AM - 11:30 AM",
+      "venue": "CCPD Placement Auditorium Room B",
+      "duration": "60 Mins",
+      "instructions": "Congratulations on qualifying Tata Motors Round 1 Online Test! You are selected for Round 2 Technical Interview with the Powertrain R&D team. Please report with your project reports and NITW ID card."
+    }
+  },
+  {
+    "id": "app_10",
+    "opportunityId": "opp_2",
+    "studentId": "std_3",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21EE32_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "appliedAt": "2026-11-02T18:30:00.000Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_11",
+    "opportunityId": "opp_4",
+    "studentId": "std_3",
+    "preferredLocation": "Pune",
+    "resumeFileName": "21EE32_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "appliedAt": "2026-11-02T19:00:00.000Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_12",
+    "opportunityId": "opp_4",
+    "studentId": "std_8",
+    "preferredLocation": "Pune",
+    "resumeFileName": "21ME12_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "appliedAt": "2026-11-02T19:30:00.000Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_13",
+    "opportunityId": "opp_5",
+    "studentId": "std_5",
+    "preferredLocation": "Hyderabad",
+    "resumeFileName": "21CE09_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "appliedAt": "2026-11-03T01:39:36.449Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_1793684000095",
+    "opportunityId": "opp_6",
+    "studentId": "std_1",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "Decision tree assignment-2.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "customRequirementAnswer": "",
+    "appliedAt": "2026-11-03T05:33:20.095Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_1793689569614",
+    "opportunityId": "opp_6",
+    "studentId": "std_4",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21ME48_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "customRequirementAnswer": "",
+    "appliedAt": "2026-11-03T07:06:09.614Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_1795514542673",
+    "opportunityId": "opp_5",
+    "studentId": "std_4",
+    "preferredLocation": "Chennai",
+    "resumeFileName": "21ME48_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "customRequirementAnswer": "",
+    "appliedAt": "2026-11-24T10:02:22.674Z",
+    "status": "Applied"
+  },
+  {
+    "id": "app_1795514701882",
+    "opportunityId": "opp_6",
+    "studentId": "std_6",
+    "preferredLocation": "Bangalore",
+    "resumeFileName": "21CS42_Resume.pdf",
+    "resumeUrl": "#",
+    "linkedinUrl": "",
+    "customRequirementAnswer": "",
+    "appliedAt": "2026-11-24T10:05:01.882Z",
+    "status": "Applied"
+  }
+]
